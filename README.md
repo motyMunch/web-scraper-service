@@ -110,4 +110,3 @@ Scrapes and summarizes the given website.
 - Works with most real-world pages (blogs, product pages, documentation)
 - Does not rely on any specific page structure
 - Easily extendable with custom scraping logic for known site types
-# web-scraper-service
